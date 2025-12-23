@@ -1,9 +1,30 @@
-[submodule "cs15"]
-	path = cs15
-	url = https://github.com/danglorioso/cs15.git
-[submodule "CS"]
-	path = CS
-	url = https://github.com/danglorioso/cs15.git
 [submodule "CS15"]
 	path = CS15
 	url = https://github.com/danglorioso/cs15.git
+[submodule "CS40"]
+	path = CS40
+	url = https://github.com/danglorioso/cs40.git
+[submodule "CS160"]
+	path = CS160
+	url = https://github.com/danglorioso/cs160.git
+[submodule "CS105"]
+	path = CS105
+	url = https://github.com/danglorioso/cs105.git
+[submodule "CS111"]
+	path = CS111
+	url = https://github.com/danglorioso/cs111.git
+[submodule "CS135"]
+	path = CS135
+	url = https://github.com/danglorioso/cs135.git
+[submodule "CS61"]
+	path = CS61
+	url = https://github.com/danglorioso/cs61.git
+[submodule "CS115"]
+	path = CS115
+	url = https://github.com/danglorioso/cs115.git
+[submodule "CS170"]
+	path = CS170
+	url = https://github.com/danglorioso/cs170.git
+[submodule "CS121"]
+	path = CS121
+	url = https://github.com/danglorioso/cs121.git
