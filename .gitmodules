@@ -4,3 +4,6 @@
 [submodule "CS"]
 	path = CS
 	url = https://github.com/danglorioso/cs15.git
+[submodule "CS15"]
+	path = CS15
+	url = https://github.com/danglorioso/cs15.git
