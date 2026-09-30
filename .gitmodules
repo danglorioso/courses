@@ -40,3 +40,9 @@
 [submodule "CS119"]
 	path = CS119
 	url = https://github.com/danglorioso/cs119
+[submodule "CS113"]
+	path = CS113
+	url = https://github.com/danglorioso/cs113
+[submodule "CS131"]
+	path = CS131
+	url = https://github.com/danglorioso/cs131
