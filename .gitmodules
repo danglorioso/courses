@@ -34,3 +34,9 @@
 [submodule "CS170"]
 	path = CS170
 	url = https://github.com/danglorioso/cs170.git
+[submodule "EE14"]
+	path = EE14
+	url = https://github.com/danglorioso/ee14
+[submodule "CS119"]
+	path = CS119
+	url = https://github.com/danglorioso/cs119
